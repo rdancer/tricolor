@@ -10,9 +10,9 @@ https://webflow.com/blog/best-color-combinations
 More examples in [`examples/`](./examples)
 
 <div align=center>
-<img width="100%" alt="Lena" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lena_plot/Lena_plot_0x1E2761_0x408EC6_0x7A2048.jpeg">
-<img width="100%" alt="Lego" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lego_plot/Lego_plot_0x375E97_0xFB6542_0xFFBB00.jpeg">
-<img width="100%" alt="Starry Night" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/starry_night_plot/Starry_Night_plot_0x330000_0x73605B_0xD09683.jpeg">
+<img width="100%" alt="Lena" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lena_masked/Lena_masked_plot_0x1E2761_0x7A2048_0x408EC6.jpeg">
+<img width="100%" alt="Lego" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lego/Lego_plot_0x375E97_0xFB6542_0xFFBB00.jpeg">
+<img width="100%" alt="Starry Night" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/starry_night/Starry_Night_plot_0x330000_0x73605B_0xD09683.jpeg ">
 </div>
 
 ## Installation

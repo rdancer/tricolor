@@ -39,7 +39,7 @@ $ python3 tricolor.py test/*.jpeg --color 0xFF0000 --color 0xFFFFFF --color 0x00
 ```
 
 ```
-$ ./tricolor_test.sh
+$ ./test/tricolor_test.sh
 Saved: Lego_0x1E2761_0x408EC6_0x7A2048.png
 Saved plot: Lego_plot_0x1E2761_0x408EC6_0x7A2048.png
 Saved: Lena_0x1E2761_0x408EC6_0x7A2048.png

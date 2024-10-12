@@ -4,7 +4,7 @@
 cat colors.txt \
 | tr ',' ' ' \
 | while read color1 color2 color3; do
-    python3 tricolor.py test/* \
+    python3 ../tricolor.py ./*.jpeg ./*.jpg ./*.png \
             --color "$color1" \
             --color "$color2" \
             --color "$color3" \

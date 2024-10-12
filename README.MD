@@ -6,9 +6,9 @@ Colours in `colors.txt` shamelessly stolen from (accessed 2024-10-22)
 https://webflow.com/blog/best-color-combinations
 
 <div align=center>
-![Lena](./test/output/hi_res/lena_hi_res/Lena_plot_0x1E2761_0x408EC6_0x7A2048.jpeg)
-![Lego](./test/output/hi_res/lego_hi_res/Lego_plot_0x375E97_0xFB6542_0xFFBB00.jpeg)
-![Starry Night](./test/output/hi_res/starry_night_hi_res/Starry_Night_plot_0x330000_0x73605B_0xD09683.jpeg)
+<img width="100%" alt="Lena" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lena_plot/Lena_plot_0x1E2761_0x408EC6_0x7A2048.jpeg">
+<img width="100%" alt="Lego" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lego_plot/Lego_plot_0x375E97_0xFB6542_0xFFBB00.jpeg">
+<img width="100%" alt="Starry Night" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/starry_night_plot/Starry_Night_plot_0x330000_0x73605B_0xD09683.jpeg">
 </div>
 
 ```

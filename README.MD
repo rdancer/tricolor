@@ -34,9 +34,14 @@ options:
   --plot         If set, generates a plot with the original, tricolor image, and color swatches.
 ```
 
+### Normal usage
+
 ```
-$ python3 tricolor.py test/*.jpeg --color 0xFF0000 --color 0xFFFFFF --color 0x0000FF
+$ python3 tricolor.py test/Lena.jpeg --color 0xFF0000 --color 0xFFFFFF --color 0x0000FF
+Saved: Lena_0xFF0000_0xFFFFFF_0x0000FF.png
 ```
+
+### Produce test images in all the colour combinations from `test/colors.txt`
 
 ```
 $ ./test/tricolor_test.sh
@@ -51,6 +56,6 @@ Saved plot: Starry_Night_plot_0x1E2761_0x408EC6_0x7A2048.png
 
 ## Note on spelling
 
-Note that we use American English *color* in code. In comments and
-documentation, it matters not (I prefer to use British English --rdancer).
+We use American English (in particular, *"color"*) in code. In comments and documentation, it
+matters not (I prefer to use British English --rdancer).
 

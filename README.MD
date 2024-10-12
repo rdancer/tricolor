@@ -7,7 +7,7 @@ https://webflow.com/blog/best-color-combinations
 
 ## Examples
 
-More examples in [`examples/`](./examples)
+More examples in [`examples/`](./test/output)
 
 <div align=center>
 <img width="100%" alt="Lena" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/test/output/plots/lena_masked/Lena_masked_plot_0x1E2761_0x7A2048_0x408EC6.jpeg">

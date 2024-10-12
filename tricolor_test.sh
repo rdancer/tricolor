@@ -1,5 +1,5 @@
 #!/bin/sh
-# tricolour_test.sh -- run all test images and all colours through the program
+# tricolor_test.sh -- run all test images and all colours through the program
 
 cat colors.txt \
 | tr ',' ' ' \

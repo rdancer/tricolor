@@ -1,6 +1,6 @@
 # Tricolor
 
-Apply tricolor posterization to images with specified colors.
+Apply tricolor posterization to images with specified colours.
 
 Colours in `colors.txt` shamelessly stolen from (accessed 2024-10-22)
 https://webflow.com/blog/best-color-combinations
@@ -48,3 +48,9 @@ Saved: Starry_Night_0x1E2761_0x408EC6_0x7A2048.png
 Saved plot: Starry_Night_plot_0x1E2761_0x408EC6_0x7A2048.png
 ...
 ```
+
+## Note on spelling
+
+Note that we use American English *color* in code. In comments and
+documentation, it matters not (I prefer to use British English --rdancer).
+

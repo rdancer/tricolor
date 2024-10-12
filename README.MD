@@ -54,6 +54,17 @@ Saved plot: Starry_Night_plot_0x1E2761_0x408EC6_0x7A2048.png
 ...
 ```
 
+## Colour theory
+
+<img width="100%" alt="Colour sorting" src="https://raw.githubusercontent.com/rdancer/tricolor/refs/heads/master/assets/Colour%20sorting.jpeg">
+
+I don't know much about colour theory, so it has surprised me that there is
+only one correct way to order the palette (top left in the above picture). I
+expected the results of different orderings to be slightly off, or even
+interesting, but no, they look downright wrong and unappealing. We divide the
+image into dark, mid, and light regions, and likewise always reorder the
+user-supplied palette from dark to bright. 
+
 ## Note on spelling
 
 We use American English (in particular, *"color"*) in code. In comments and documentation, it

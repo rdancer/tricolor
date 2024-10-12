@@ -7,7 +7,7 @@ from PIL import Image
 
 def hex_to_rgb(hex_str):
     """Convert hex string to RGB tuple."""
-    hex_str = hex_str.lstrip("0x").lstrip("#")
+    hex_str = hex_str.removeprefix("0x").lstrip("#")
     if len(hex_str) == 6:
         return tuple(int(hex_str[i:i+2], 16) for i in (0, 2, 4))
     else:
